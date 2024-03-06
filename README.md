@@ -1,1 +1,2 @@
 # stained_glass
+This project allows the user to input any image and get a "stained glass" version of the same image.  The ouput image will be divided up into a number of columns and rows (chosen by the user)to form a grid, and the vertices of this grid will be moved by a slight, random amount to make a grid of irregular shapes.  Each of these shapes within the grid are then colored the average color of all pixels within the shape to create what looks like a staned glass version of the original image.  An example is included.
